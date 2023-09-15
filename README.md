@@ -1,4 +1,18 @@
-<div align="center">
+## Temitope Oyeyemi Eyinla 
+
+### Hi there 👋
+
+Welcome to my Github profile! I'm Temitope Eyinla, a highly analytical and process-oriented data analyst with over three years of proven track record in a variety of industries, providing research, data capturing, and visualization to senior executives. I obtained a Bachelor's degree in Mathematics from Adekunle Ajasin University, Nigeria. Thereafter, I obtained a Master's degree in Applied and Computational Mathematics and Statistics from the University of Notre Dame, United States (December 2023, Expected).
+
+Over the years, I have acquired hands-on experience in several programming languages, including Python and R.  In uncovering valuable insights that could facilitate informed decision-making, I am highly skilled in Exploratory Data Analysis (EDA), Extract Transform Load (ETL), and Statistics. 
+
+I am proficient in creating interactive dashboards using Business Intelligence tools such as POWER BI, as well as using Microsoft Excel. I am equally skilled in extracting information from large data sets using SQL.
+
+Beyond Data, I love singing and listening to music. I've been in the choir since I was four, and I currently sing in my local church in the United States. I also play soccer (football) every Wednesday, Friday, and Sunday.
+
+I'm open to collaboration and entry-level positions. You can reach out to me on [Twitter](https://x.com/boubow1204) and [LinkedIn](https://www.linkedin.com/in/temitopeeyinla) to start an inspiring data-driven adventure together! Let's change the world by converting data into impactful and insightful narratives.
+
+<!--<div align="center">
   <p><em><strong>Disclaimer:</strong> The information here may vary depending on the version you're using.<br/>
   Please refer to the <code>README.md</code> bundled within the theme-gem for information specific to your version or by pointing
   your browser to the Git tag corresponding to your version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md.<br/>
@@ -372,3 +386,4 @@ To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+-->
