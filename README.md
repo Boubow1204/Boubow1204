@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome to my Github profile! I'm Temitope Eyinla, a highly analytical and process-oriented data analyst with over three years of proven track record in a variety of industries, providing research, data capturing, and visualization to senior executives. I obtained a Bachelor's degree in Mathematics from Adekunle Ajasin University, Nigeria. Thereafter, I obtained a Master's degree in Applied and Computational Mathematics and Statistics from the University of Notre Dame, United States (December 2023, Expected).
+Welcome to my Github profile! I am Temitope Eyinla, a highly analytical and process-oriented data analyst with over three years of proven track record in a variety of industries, providing research, data capturing, and visualization to senior executives. I obtained a Bachelor's degree in Mathematics from Adekunle Ajasin University, Nigeria. Currently, I am a graduate student at the University of Notre Dame, Indiana, graduating in December 2023 with a Master of Science degree in Applied and Computational Mathematics and Statistics.
 
 Over the years, I have acquired hands-on experience in several programming languages, including Python and R.  In uncovering valuable insights that could facilitate informed decision-making, I am highly skilled in Exploratory Data Analysis (EDA), Extract Transform Load (ETL), and Statistics. 
 
